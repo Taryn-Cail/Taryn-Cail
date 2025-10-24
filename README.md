@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Taryn-Cail
 - 👀 I’m interested in ... Computer Science, History and Politics!
-- 🌱 I’m currently learning ... Java, C, Pyhton, Binary and Assembly!
+- 🌱 I’m currently learning ... Java, C, Python, Binary and Assembly!
 - 😄 Pronouns: ... She/Her
 
 <!---
